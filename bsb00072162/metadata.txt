@@ -1,0 +1,8 @@
+Shelfmark: Clm 23343
+Script: Caroline miniscule
+Origin: Tegernsee
+Date: 1100
+Library: Munich, Bayerische Staatsbibliothek
+URL: http://daten.digitale-sammlungen.de/~db/0007/bsb00072162/images/index.html
+IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00072162/manifest
+License: http://creativecommons.org/licenses/by-nc-sa/4.0/
