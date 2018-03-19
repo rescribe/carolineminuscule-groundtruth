@@ -1,5 +1,5 @@
 Shelfmark: Clm 210
-Script: Caroline miniscule
+Script: Caroline minuscule
 Origin: Salzburg
 Date: 818
 Library: Munich, Bayerische Staatsbibliothek

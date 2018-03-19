@@ -1,5 +1,5 @@
 Shelfmark: Clm 23343
-Script: Caroline miniscule
+Script: Caroline minuscule
 Origin: Tegernsee
 Date: 1100
 Library: Munich, Bayerische Staatsbibliothek

@@ -1,5 +1,5 @@
 Shelfmark: Clm 14515
-Script: Caroline miniscule
+Script: Caroline minuscule
 Origin: St. Emmeram
 Date: 1100
 Library: Munich, Bayerische Staatsbibliothek

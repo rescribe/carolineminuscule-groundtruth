@@ -1,4 +1,4 @@
-# OCR Ground truth for Caroline Miniscule
+# OCR Ground truth for Caroline Minuscule
 
 This ground truth repository is a work in process; it currently accounts for a part of our complete Caroline Minuscule training pool of around 70 manuscripts used for our OCRopus Caroline Minuscule model (see ocropus-models repository).
 

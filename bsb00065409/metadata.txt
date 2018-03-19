@@ -1,5 +1,5 @@
 Shelfmark: Clm 6417
-Script: Caroline miniscule
+Script: Caroline minuscule
 Origin: Freising?
 Date: 900
 Library: Munich, Bayerische Staatsbibliothek

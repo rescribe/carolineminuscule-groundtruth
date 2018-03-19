@@ -1,5 +1,5 @@
 Shelfmark: Clm 6431
-Script: Caroline miniscule
+Script: Caroline minuscule
 Origin: Swabia?
 Date: 900
 Library: Munich, Bayerische Staatsbibliothek
