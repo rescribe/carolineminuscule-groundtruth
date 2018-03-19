@@ -12,7 +12,7 @@ The page subdirectories are split into lines (by ocropus-gpageseg), with `.png` 
 
 The ground truth contained in this repository should be considered Public Domain, or licensed under Apache License 2.0, whichever suits your needs better.
 
-Each manuscript directory contains a `metadata.txt` which describes its provenence and the licensing of the images. We have only used manuscript images which are freely redistributable and reusable.
+The `metadata.txt` files in each manuscript directory describes its provenance and the licensing of the images. We have only used manuscript images which are freely redistributable and reusable.
 
 
 
