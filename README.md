@@ -1,3 +1,6 @@
+This ground truth repository is a work in process; it currently accounts for a part of our complete Caroline Minuscule training pool of around 70 manuscripts used for our OCRopus Caroline Minuscule model (see ocropus-models repository).
+
+
 OCR Ground Truth Transcription Protocol
 
 The ground truth published in this repository has been created according to a number of guidelines designed to find a compromise
