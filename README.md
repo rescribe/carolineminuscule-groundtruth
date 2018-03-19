@@ -1,7 +1,22 @@
+# OCR Ground truth for Caroline Miniscule
+
 This ground truth repository is a work in process; it currently accounts for a part of our complete Caroline Minuscule training pool of around 70 manuscripts used for our OCRopus Caroline Minuscule model (see ocropus-models repository).
 
+## Repository structure
 
-OCR Ground Truth Transcription Protocol
+Each manuscript used is contained in a directory, which contains subdirectories for each page and a `metadata.txt` file.
+
+The page subdirectories are split into lines (by ocropus-gpageseg), with `.png` images and corresponding `.gt.txt` ground truth text files. These have been prepared for the OCRopus OCR engine, but should be usable by other OCR engines which work on a line by line basis. Please let us know if you adapt the ground truth to work with other OCR engines, we'd love to hear about it.
+
+### License, provenance, metadata
+
+The ground truth contained in this repository should be considered Public Domain, or licensed under Apache License 2.0, whichever suits your needs better.
+
+Each manuscript directory contains a `metadata.txt` which describes its provenence and the licensing of the images. We have only used manuscript images which are freely redistributable and reusable.
+
+
+
+## OCR Ground Truth Transcription Protocol
 
 The ground truth published in this repository has been created according to a number of guidelines designed to find a compromise
 between the quirks of medieval writing and the limitations of modern software (i.e. its incompatibility with certain medieval characters or the fact that some 
