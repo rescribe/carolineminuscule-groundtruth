@@ -38,8 +38,8 @@ CAPITALIZATION
 
 ABBREVIATIONS
 - Diplomatic where possible: Retain abbreviations and render glyphs as opposed to expanded versions where possible
-- "*" where original character isn't served: OCRopus (at the point in time of transcription) could not handle some of the medieval glyphs, even where a Unicode version was present. 
-Abbreviations not in OCRopus are uniformly transcribed as "*", in the case of a combined character (such as a consonant with a macron) as the base character followre by "*" (e.g. "t*").
+- "\*" where original character isn't served: OCRopus (at the point in time of transcription) could not handle some of the medieval glyphs, even where a Unicode version was present. 
+Abbreviations not in OCRopus are uniformly transcribed as "\*", in the case of a combined character (such as a consonant with a macron) as the base character followre by "\*" (e.g. "t\*").
 The list of accepted characters in OCRopus can be found in this repository, and downloaded and used as codec in the OCRopus training process. 
 
 SPACING
