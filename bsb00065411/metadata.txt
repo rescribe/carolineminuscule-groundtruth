@@ -1,0 +1,8 @@
+Shelfmark: Clm 6434
+Script: Caroline minuscule
+Origin: Freising
+Date: 790-800
+Library: Munich, Bayerische Staatsbibliothek
+URL: http://daten.digitale-sammlungen.de/~db/0006/bsb00065411/images/index.html
+IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00065411/manifest
+License: http://creativecommons.org/licenses/by-nc-sa/4.0/
