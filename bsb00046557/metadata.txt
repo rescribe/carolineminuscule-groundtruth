@@ -1,0 +1,8 @@
+Shelfmark: Clm 46557
+Script: Caroline minuscule
+Origin: St Emmeram
+Date: 1049-1075
+Library: Munich, Bayerische Staatsbibliothek
+URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00046557/images/index.html
+IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046557/manifest
+License: http://creativecommons.org/licenses/by-nc-sa/4.0/
