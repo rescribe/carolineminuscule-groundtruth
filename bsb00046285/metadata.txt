@@ -1,0 +1,8 @@
+Shelfmark: Clm 14510
+Script: Caroline minuscule
+Origin: Regensburg
+Date: 800-825
+Library: Munich, Bayerische Staatsbibliothek
+URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00046285/images/index.html
+IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046285/manifest
+License: http://creativecommons.org/licenses/by-nc-sa/4.0/
