@@ -5,4 +5,5 @@ Date: 1100-1199?
 Library: Munich, Bayerische Staatsbibliothek
 URL: http://daten.digitale-sammlungen.de/~db/0010/bsb00104168/images/index.html
 IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00104168/manifest
+RDF: https://opacplus.bsb-muenchen.de/title/BV037453901?format=rdf
 License: http://creativecommons.org/licenses/by-nc-sa/4.0/

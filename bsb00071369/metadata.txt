@@ -5,4 +5,5 @@ Date: 790-810
 Library: Munich, Bayerische Staatsbibliothek
 URL: http://daten.digitale-sammlungen.de/0007/bsb00071369/images/index.html
 IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00071369/manifest
+RDF: https://opacplus.bsb-muenchen.de/title/BV037462729?format=rdf
 License: http://creativecommons.org/licenses/by-nc-sa/4.0/

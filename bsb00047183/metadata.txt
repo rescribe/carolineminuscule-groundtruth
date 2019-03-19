@@ -5,4 +5,5 @@ Date: 818
 Library: Munich, Bayerische Staatsbibliothek
 URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00047183/images/index.html
 IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00047183/manifest
+RDF: https://opacplus.bsb-muenchen.de/title/BV036076862?format=rdf
 License: http://creativecommons.org/licenses/by-nc-sa/4.0/

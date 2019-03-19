@@ -5,4 +5,5 @@ Date: 1049-1075
 Library: Munich, Bayerische Staatsbibliothek
 URL: http://daten.digitale-sammlungen.de/~db/0004/bsb00046557/images/index.html
 IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046557/manifest
+RDF: https://opacplus.bsb-muenchen.de/title/BV036062907?format=rdf
 License: http://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,4 +5,5 @@ Date: 800-830
 Library: Munich, Bayerische Staatsbibliothek
 URL: http://daten.digitale-sammlungen.de/~db/0005/bsb00054504/images/index.html
 IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00054504/manifest
+RDF: https://opacplus.bsb-muenchen.de/title/BV036732223?format=rdf
 License: http://creativecommons.org/licenses/by-nc-sa/4.0/

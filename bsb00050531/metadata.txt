@@ -5,4 +5,5 @@ Date: 1000-1099
 Library: Munich, Bayerische Staatsbibliothek
 URL: http://daten.digitale-sammlungen.de/~db/0005/bsb00050531/images/index.html
 IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00050531/manifest
+RDF: https://opacplus.bsb-muenchen.de/title/BV036499009?format=rdf
 License: http://creativecommons.org/licenses/by-nc-sa/4.0/
