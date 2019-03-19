@@ -1,0 +1,8 @@
+Shelfmark: Clm 14517
+Script: Caroline minuscule
+Origin: Lake Constance area?
+Date: 800-899
+Library: Munich, Bayerische Staatsbibliothek
+URL: http://daten.digitale-sammlungen.de/~db/0006/bsb00065763/images/index.html
+IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00065763/manifest
+License: http://creativecommons.org/publicdomain/zero/1.0/
