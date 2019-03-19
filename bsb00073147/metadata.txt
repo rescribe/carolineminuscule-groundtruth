@@ -1,0 +1,9 @@
+Shelfmark: Clm 17059
+Script: Caroline miniscule
+Origin: ?
+Date: 800-899
+Library: Munich, Bayerische Staatsbibliothek
+URL: http://daten.digitale-sammlungen.de/~db/0007/bsb00073147/images/index.html
+IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00073147/manifest
+RDF: https://opacplus.bsb-muenchen.de/title/BV037455187?format=rdf
+License: http://creativecommons.org/licenses/by-nc-sa/4.0/
