@@ -1,0 +1,9 @@
+Shelfmark: Clm 29302
+Script: Caroline
+Origin: Benediktbeuern
+Date: 800-899
+Library: Munich, Bayerische Staatsbibliothek
+URL: http://daten.digitale-sammlungen.de/~db/0007/bsb00071185/images/index.html
+IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00071185/manifest
+RDF: https://opacplus.bsb-muenchen.de/title/BV037461449?format=rdf
+License: http://creativecommons.org/licenses/by-nc-sa/4.0/
