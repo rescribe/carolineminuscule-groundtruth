@@ -8,6 +8,8 @@ Each manuscript used is contained in a directory, which contains subdirectories 
 
 The page subdirectories are split into lines (by ocropus-gpageseg), with `.png` images and corresponding `.gt.txt` ground truth text files. These have been prepared for the OCRopus OCR engine, but should be usable by other OCR engines which work on a line by line basis. Please let us know if you adapt the ground truth to work with other OCR engines, we'd love to hear about it.
 
+There are also now full colour page images in each manuscript directory, alongside plain text and ALTO XML representations of ground truth, which can be used for training with Kraken or transforming into other formats.
+
 ### License, provenance, metadata
 
 The ground truth contained in this repository should be considered Public Domain, or licensed under Apache License 2.0, whichever suits your needs better.
