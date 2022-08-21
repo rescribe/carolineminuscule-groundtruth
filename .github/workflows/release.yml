@@ -17,11 +17,10 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install chocomufin
-      # No chocomufin yet here
-      #- name: Run Report
-      #  run: |
-      #    # Generate chocomufin version
-      #    chocomufin -n NFD convert table.csv */*.xml --parser alto
+      - name: Run Report
+        run: |
+          # Generate chocomufin version
+          chocomufin -n NFD convert table.csv */*.xml --parser alto
       - name: Compress
         run: tar -czvf normalized-data.tar.gz */*.xml */*.jpg */*.png */*.jpeg */*.tif
       - uses: AButler/upload-release-assets@v2.0
