@@ -11,8 +11,8 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1468" LABEL="Margin" DESCRIPTION="block type Margin"/><OtherTag ID="BT1469" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/><OtherTag ID="BT1470" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
-    <OtherTag ID="LT501" LABEL="Default" DESCRIPTION="line type Default"/><OtherTag ID="LT502" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
+    <OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1468" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1469" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1470" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT501" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT502" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
